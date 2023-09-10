@@ -3,12 +3,10 @@ This project is created using React and an external API 'Spoonacular'.
 
 Here's how I made this project.
 
-<<<<<<< HEAD
 First create a basic template using create-react-app. I deleted some files that were of no use in the project.
 
-=======
 First create a basic template using create-react-app. I deleted some files that were of no use in the project.<br/>
->>>>>>> 48ecb21566127a4c862eb37e00e6d1e011c94cd3
+
 Then fix the design of the website.
 
 Create components Picks rendering a specific type of recepies.(in this case vegetarian type).
