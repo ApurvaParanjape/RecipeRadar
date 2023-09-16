@@ -12,7 +12,7 @@ Framer-motion is used for fade-in transitions.
 
 Here's how I made this project.
 
-<<<<<<< HEAD
+
 
 First create a basic template using create-react-app. I deleted some files that were of no use in the project.
 
